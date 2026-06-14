@@ -12,3 +12,4 @@
 /Users/felipedias/Documents/Estartando Devs Back-end/desafio-semana-01-csharp /apresentacao-pesoal/obj/Debug/net10.0/apresentacao-pesoal.pdb
 /Users/felipedias/Documents/Estartando Devs Back-end/desafio-semana-01-csharp /apresentacao-pesoal/obj/Debug/net10.0/apresentacao-pesoal.genruntimeconfig.cache
 /Users/felipedias/Documents/Estartando Devs Back-end/desafio-semana-01-csharp /apresentacao-pesoal/obj/Debug/net10.0/ref/apresentacao-pesoal.dll
+/Users/felipedias/Documents/Estartando Devs Back-end/desafio-semana-01-csharp /apresentacao-pesoal/obj/Debug/net10.0/apresentacao-pesoal.sourcelink.json
